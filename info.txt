@@ -1,0 +1,1 @@
+This NestJS project was created as part of an academic assignment. It is intended to practice basic Git commands, project structure, and as part of the path to one day becoming a part of Dicsys. 
